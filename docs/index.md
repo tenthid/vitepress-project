@@ -14,8 +14,8 @@ hero:
       text: API Examples
       link: example/api-examples
     - theme: alt
-      text: coba page
-      link: coba/coba
+      text: Vitepress Curriculum
+      link: coba/meeting-1/programing
 
 features:
   - title: Feature A

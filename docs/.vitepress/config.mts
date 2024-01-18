@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: 'example/markdown-examples' },
-      { text: 'coba', link: 'coba/meeting-1/programing'}
+      { text: 'Vitepress Curriculum', link: 'coba/meeting-1/programing'}
     ],
     sidebar: {
       '/example': [
@@ -44,6 +44,16 @@ export default defineConfig({
             { text: 'Types of Data', link: 'coba/meeting-2/typesofdata' },
             { text: 'Variables', link: 'coba/meeting-2/variables' },
             { text: 'Constant', link: 'coba/meeting-2/constant' },
+          ]
+        },
+        {
+          text: 'Meeting 3 - Input, Output, and, String',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-3/introduction' },
+            { text: 'Input and Output', link: 'coba/meeting-3/inputoutput' },
+            { text: 'Format Output', link: 'coba/meeting-3/outputformat' },
+            { text: 'String', link: 'coba/meeting-3/string' },
           ]
         },
       ]

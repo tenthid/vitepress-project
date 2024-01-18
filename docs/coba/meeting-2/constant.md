@@ -7,8 +7,8 @@ prev:
     link: ./variables
 
 next:
-    text: Meeting 3 - 
-    link: ../meeting-3/
+    text: Meeting 3 - Introduction
+    link: ../meeting-3/introduction
 ---
 # Constant
 `Constant` is a value that remains unchanged during the execution of a program. Once defined, its value cannot be modified or reassigned throughout the program's execution. Constants are used to hold values that are expected to remain the same throughout the program's lifetime.
