@@ -11,7 +11,9 @@ next:
     link: ../meeting-2/introduction
 ---
 # Practice
-### Create written description, pseudocode, and flowchart for these processes :
+::: tip __What to do?__
+__Create written description, pseudocode, and flowchart for these processes :__
 1. Automated Vending Machine
 2. Simple Calculator Program
 3. Online Shopping Checkout Process
+:::

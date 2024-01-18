@@ -54,6 +54,19 @@ export default defineConfig({
             { text: 'Input and Output', link: 'coba/meeting-3/inputoutput' },
             { text: 'Format Output', link: 'coba/meeting-3/outputformat' },
             { text: 'String', link: 'coba/meeting-3/string' },
+            { text: 'Exercise', link: 'coba/meeting-3/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 4 - Arithmetic Operators',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-4/introduction' },
+            { text: 'Addition and Subtraction', link: 'coba/meeting-4/addandsub' },
+            { text: 'Multiplication and Division', link: 'coba/meeting-4/multifydivide' },
+            { text: 'Modulo', link: 'coba/meeting-4/modulo' },
+            { text: 'Increment and Decrement', link: 'coba/meeting-4/incrementdecrement' },
+            { text: 'Operator Precendence', link: 'coba/meeting-4/operatorprecedence' },
           ]
         },
       ]

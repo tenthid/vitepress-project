@@ -7,8 +7,8 @@ prev:
     link: ../meeting-3/outputformat
 
 next:
-    text: Something
-    link: ../meeting-4/
+    text: Exercise
+    link: ../meeting-3/exercise
 ---
 
 # String
@@ -162,4 +162,46 @@ print(concatenated_string)
 FUNCTION concatenateStrings(string1, string2):
     concatenatedString = string1 + string2
     RETURN concatenatedString
+```
+
+## Slice String
+`String slicing` extracts a part of a string by specifying the starting and ending indices or positions.
+::: code-group
+```c [C]
+char inputString[] = "Hello, World!";
+int startIndex = 3;
+int endIndex = 8;
+char slicedString[50];
+
+strncpy(slicedString, inputString + startIndex, endIndex - startIndex);
+slicedString[endIndex - startIndex] = '\0';
+printf("%s\n", slicedString);
+```
+```c++ [C++]
+string inputString = "Hello, World!";
+int startIndex = 3;
+int endIndex = 8;
+string slicedString = inputString.substr(startIndex, endIndex - startIndex);
+cout << slicedString << endl;
+```
+```java [Java]
+String inputString = "Hello, World!";
+int startIndex = 3;
+int endIndex = 8;
+String slicedString = inputString.substring(startIndex, endIndex);
+System.out.println(slicedString);
+```
+```python [Python]
+input_string = "Hello, World!"
+start_index = 3
+end_index = 8
+sliced_string = input_string[start_index:end_index]
+print(sliced_string)
+```
+:::
+- Pseudocode
+```txt
+FUNCTION sliceString(inputString, startIndex, endIndex):
+    slicedString = inputString[startIndex:endIndex]
+    RETURN slicedString
 ```

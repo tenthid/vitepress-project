@@ -14,8 +14,10 @@ prev:
 # Introduction
 ## Data Types
 ```Data types``` classify different types of information, such as integers, floating-point numbers, strings of characters, and boolean values, defining how the computer interprets and operates on that data.
+![nota](../../assets/nota.png)
 ## Variables
-```Variables``` act as named containers that store these various data types in memory, allowing programmers to access, modify, and utilize these values throughout their code. 
+```Variables``` act as named containers that store these various data types in memory, allowing programmers to access, modify, and utilize these values throughout their code.
+![aquarium](../../assets/aquarium.png) 
 
 <!-- ## ini gatau apa <Badge type="info" text="code"/>
 ini baris code baris code adalah balalalabl alba lbalbal balbalbalb ala bablab alblalal ablabalalbalb al bablablbalb abal abllb aablal ```<component>```
