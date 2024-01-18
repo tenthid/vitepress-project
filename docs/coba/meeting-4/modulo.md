@@ -11,7 +11,7 @@ next:
     link: ./incrementdecrement
 ---
 # Modulo
-- Modulo operation finds the remainder when one number is divided by another
+- __Modulo__ operation finds the remainder when one number is divided by another
 ::: code-group
 ```c [C]
 int a = 5, b = 3, result;

@@ -17,4 +17,3 @@ next:
 - __Multiplication and Division:__ These operations have higher precedence than addition and subtraction.  
 - __Addition and Subtraction:__ These operations have the next level of precedence.
 :::
-<!-- just comment -->
