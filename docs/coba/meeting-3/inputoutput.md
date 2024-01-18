@@ -56,6 +56,8 @@ print("Hello, World!")
 ```
 ::: 
 ## Pseudocode
-__PRINT__ "Please enter your name: "  
-__INPUT__ user_name  
-__PRINT__ "Hello, " + user_name + "! Nice to meet you."  
+```txt
+PRINT "Please enter your name: "  
+INPUT user_name  
+PRINT "Hello, " + user_name + "! Nice to meet you."
+```
