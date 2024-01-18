@@ -95,6 +95,28 @@ export default defineConfig({
             { text: 'Continue and Break', link: 'coba/meeting-6/continuebreak' },
             { text: 'Exercise', link: 'coba/meeting-6/exercise' },
           ]
+        },  
+        {
+          text: 'Meeting 7 - Static Array',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-7/introduction' },
+            { text: 'Example Use', link: 'coba/meeting-7/exampleuse' },
+            { text: 'Types of Array', link: 'coba/meeting-7/typesofarray' },
+            { text: 'Initialize Array', link: 'coba/meeting-7/initializearray' },
+            { text: 'Access Array', link: 'coba/meeting-7/accessarray' },
+            { text: 'Show the Value in Array', link: 'coba/meeting-7/showarrayvalue' },
+            { text: 'Update Array', link: 'coba/meeting-7/updatearray' },
+            { text: 'Multidimensional Array', link: 'coba/meeting-7/multiarray' },
+            { text: 'Exercise', link: 'coba/meeting-7/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 8 - Mid Test',
+          collapsed:true,
+          items: [
+            { text: 'Case', link: 'coba/meeting-5/case' },
+          ]
         },
       ]
     },

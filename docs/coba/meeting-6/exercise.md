@@ -12,7 +12,7 @@ next:
 ---
 # Exercise
 
-::: tip __What to do__
+::: tip __What to do?__
 1. Write a program that takes an integer input n and prints the sum of all numbers from 1 to n.
 2. Develop a program that prompts the user to guess a secret number (between 1 and 100). Provide hints (higher/lower) for incorrect guesses and limit the number of attempts to 5.
 3. Create a program that generates the Fibonacci sequence up to a given number n.
