@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Introduction - Hhat is Programing
+title: Introduction - What is Programing
 
 next:
     text: History of Programing
