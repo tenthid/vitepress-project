@@ -55,7 +55,7 @@ System.out.println("Hello, World!");
 print("Hello, World!")
 ```
 ::: 
-## Pseudocode
+## Pseudocode Example
 ```txt
 PRINT "Please enter your name: "  
 INPUT user_name  

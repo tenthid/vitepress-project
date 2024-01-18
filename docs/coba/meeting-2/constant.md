@@ -21,7 +21,7 @@ next:
 
 ## How to write constant
 ::: info
-In Python, there is no strict concept of constant variables like in some other programming languages. However, it is a convention to use uppercase variable names for constants to indicate that their values should not be changed. While the language does not enforce immutability, using uppercase names for constants is a widely accepted practice among Python developers.
+In `Python`, there is no strict concept of constant variables like in some other programming languages. However, it is a convention to use uppercase variable names for constants to indicate that their values should not be changed. While the language does not enforce immutability, using uppercase names for constants is a widely accepted practice among Python developers.
 :::
 
 ::: code-group

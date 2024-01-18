@@ -14,7 +14,7 @@ prev:
 ## Declare Variable
 Defining the existence of the variable without necessarily assigning it a specific value. It involves specifying the variable's name and its data type.
 ::: info
-However, it's important to note that Python is a dynamically typed language, meaning that you do not explicitly declare the data type of a variable. Instead, the type is inferred at runtime based on the value assigned to the variable.
+However, it's important to note that `Python` is a dynamically typed language, meaning that you do not explicitly declare the data type of a variable. Instead, the type is inferred at runtime based on the value assigned to the variable.
 :::
 
 ::: code-group

@@ -67,6 +67,33 @@ export default defineConfig({
             { text: 'Modulo', link: 'coba/meeting-4/modulo' },
             { text: 'Increment and Decrement', link: 'coba/meeting-4/incrementdecrement' },
             { text: 'Operator Precendence', link: 'coba/meeting-4/operatorprecedence' },
+            { text: 'Exercise', link: 'coba/meeting-4/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 5 - Selection',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-5/introduction' },
+            { text: 'Operator', link: 'coba/meeting-5/operator' },
+            { text: 'If-else', link: 'coba/meeting-5/ifelse' },
+            { text: 'Ternary', link: 'coba/meeting-5/ternary' },
+            { text: 'Switch Case', link: 'coba/meeting-5/switchcase' },
+            { text: 'Exercise', link: 'coba/meeting-5/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 6 - Repetition',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-6/introduction' },
+            { text: 'Example', link: 'coba/meeting-6/example' },
+            { text: 'While Loop', link: 'coba/meeting-6/whileloop' },
+            { text: 'Do-While Loop', link: 'coba/meeting-6/dowhileloop' },
+            { text: 'For Loop', link: 'coba/meeting-6/forloop' },
+            { text: 'Forever Loop', link: 'coba/meeting-6/foreverloop' },
+            { text: 'Continue and Break', link: 'coba/meeting-6/continuebreak' },
+            { text: 'Exercise', link: 'coba/meeting-6/exercise' },
           ]
         },
       ]

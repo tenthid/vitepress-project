@@ -12,7 +12,7 @@ prev:
 
 # What is Algorithms?
 ## Explanation
-An algorithm is a step-by-step procedure or set of instructions designed to solve a problem, accomplish a task, or perform a specific computation.
+An `algorithm` is a step-by-step procedure or set of instructions designed to solve a problem, accomplish a task, or perform a specific computation.
 ## Why it's important
 - Problem solving
 - Decision making

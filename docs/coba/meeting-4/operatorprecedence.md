@@ -7,8 +7,8 @@ prev:
     link: ./incrementdecrement
 
 next:
-    text: Meeting 5 - Introduction
-    link: ../meeting-5/introduction
+    text: Exercise
+    link: ./exercise
 ---
 # Operator Precedence
 - `Operator precedence` defines the order in which different operators are evaluated in an expression. It ensures that expressions are computed in a predictable and consistent manner.  
