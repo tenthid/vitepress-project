@@ -118,6 +118,33 @@ export default defineConfig({
             { text: 'Case', link: 'coba/meeting-5/case' },
           ]
         },
+        {
+          text: 'Meeting 9 - Dynamic Array',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-9/introduction' },
+            { text: 'Initialize Array', link: 'coba/meeting-9/initialize' },
+            { text: 'Access or Show the Value in Array', link: 'coba/meeting-9/showaccessarray' },
+            { text: 'Update Array', link: 'coba/meeting-9/updatearray' },
+            { text: 'Clear or Empty Array', link: 'coba/meeting-9/clearemptyarray' },
+            { text: 'Example', link: 'coba/meeting-9/example' },
+            { text: 'Exercise', link: 'coba/meeting-9/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 10 - Function',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-10/introduction' },
+            { text: 'Example of Use', link: 'coba/meeting-10/exampleuse' },
+            { text: 'Types of Function', link: 'coba/meeting-10/functiontype' },
+            { text: 'Built-in Function', link: 'coba/meeting-10/builtinfunction' },
+            { text: 'User-defined Function', link: 'coba/meeting-10/userdefinedfunction' },
+            { text: 'Defining Function', link: 'coba/meeting-10/definingfunction' },
+            { text: 'Local vs Global Variables in Function', link: 'coba/meeting-10/localglobalvariable' },
+            { text: 'Exercise', link: 'coba/meeting-10/exercise' },
+          ]
+        },
       ]
     },
 
