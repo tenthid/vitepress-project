@@ -145,6 +145,30 @@ export default defineConfig({
             { text: 'Exercise', link: 'coba/meeting-10/exercise' },
           ]
         },
+        {
+          text: 'Meeting 11 - Sort',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-11/introduction' },
+            { text: 'Types of Sorting', link: 'coba/meeting-11/typesofsorting' },
+            { text: 'Examples of Sorting', link: 'coba/meeting-11/examples' },
+            { text: 'Bubble Sort', link: 'coba/meeting-11/bubblesort' },
+            { text: 'Quick Sort', link: 'coba/meeting-11/quicksort' },
+            { text: 'Bubble Sort vs Quick Sort', link: 'coba/meeting-11/bubblevsquick' },
+          ]
+        },
+        {
+          text: 'Meeting 12 - Searching',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-12/introduction' },
+            { text: 'Types of Searching', link: 'coba/meeting-12/typesofsearching' },
+            { text: 'Examples of Searching', link: 'coba/meeting-12/examples' },
+            { text: 'Linear Search', link: 'coba/meeting-12/linearsearch' },
+            { text: 'Binary Search', link: 'coba/meeting-12/binarysearch' },
+            { text: 'Exercise', link: 'coba/meeting-12/exercise' },
+          ]
+        },
       ]
     },
 
