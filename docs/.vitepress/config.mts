@@ -181,6 +181,27 @@ export default defineConfig({
             { text: 'Final Exercise', link: 'coba/meeting-13/exercise' },
           ]
         },
+        {
+          text: 'Meeting 14 - OOP Part 2',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-14/introduction' },
+            { text: 'Encapsulation', link: 'coba/meeting-14/encapsulation' },
+            { text: 'Inheritance', link: 'coba/meeting-14/inheritance' },
+            { text: 'Abstraction', link: 'coba/meeting-14/abstraction' },
+            { text: 'Polymorphism', link: 'coba/meeting-14/polymorphism' },
+            { text: 'Final Exercise', link: 'coba/meeting-14/exercise' },
+          ]
+        },
+        {
+          text: 'Meeting 15 - Project',
+          collapsed:true,
+          items: [
+            { text: 'Project Making', link: 'coba/meeting-15/introduction' },
+            { text: 'Project Guide', link: 'coba/meeting-15/oopadvantages' },
+            { text: 'Project Submission', link: 'coba/meeting-15/example' },
+          ]
+        },
       ]
     },
 

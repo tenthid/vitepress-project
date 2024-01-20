@@ -8,7 +8,7 @@ prev:
 
 next:
     text: Meeting 14 - Introduction
-    link: .../meeting-14/introduction
+    link: ../meeting-14/introduction
 ---
 
 # Final Exercise
