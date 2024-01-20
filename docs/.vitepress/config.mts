@@ -169,6 +169,18 @@ export default defineConfig({
             { text: 'Exercise', link: 'coba/meeting-12/exercise' },
           ]
         },
+        {
+          text: 'Meeting 13 - OOP Part 1',
+          collapsed:true,
+          items: [
+            { text: 'Introduction', link: 'coba/meeting-13/introduction' },
+            { text: 'Advantages of OOP', link: 'coba/meeting-13/oopadvantages' },
+            { text: 'Example', link: 'coba/meeting-13/example' },
+            { text: 'Class', link: 'coba/meeting-13/class' },
+            { text: 'Object', link: 'coba/meeting-13/object' },
+            { text: 'Final Exercise', link: 'coba/meeting-13/exercise' },
+          ]
+        },
       ]
     },
 
