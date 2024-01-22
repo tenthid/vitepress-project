@@ -14,14 +14,14 @@ next:
 `Constant` is a value that remains unchanged during the execution of a program. Once defined, its value cannot be modified or reassigned throughout the program's execution. Constants are used to hold values that are expected to remain the same throughout the program's lifetime.
 
 ::: details Points
-- Once a constant is defined and assigned a value, that value `cannot be altered or modified`.
-- Constants are used to `represent fixed values` that are not expected to change during the execution of a program. Examples include mathematical constants (like π or e), fixed configuration parameters, or values used in algorithms that shouldn't be modified.
-- In many programming languages, constants are named using `uppercase` letters with `underscores` to separate words, enhancing readability and distinguishing them from variables.
+- Once a constant is defined and assigned a value, that value __cannot be altered or modified__.
+- Constants are used to __represent fixed values__ that are not expected to change during the execution of a program. Examples include mathematical constants (like π or e), fixed configuration parameters, or values used in algorithms that shouldn't be modified.
+- In many programming languages, constants are named using __uppercase__ letters with __underscores__ to separate words, enhancing readability and distinguishing them from variables.
 :::
 
 ## How to write constant
-::: info
-In `Python`, there is no strict concept of constant variables like in some other programming languages. However, it is a convention to use uppercase variable names for constants to indicate that their values should not be changed. While the language does not enforce immutability, using uppercase names for constants is a widely accepted practice among Python developers.
+::: info In Python
+There is no strict concept of constant variables like in some other programming languages. However, it is a convention to use uppercase variable names for constants to indicate that their values should not be changed. While the language does not enforce immutability, using uppercase names for constants is a widely accepted practice among Python developers.
 :::
 
 ::: code-group
@@ -51,15 +51,15 @@ MAX_VALUE = 100
 
 ::: details Pascal Case
 - capitalizes the first letter of each word in the identifier, including the first word, without using any separators.
-- example: int `NumberOfStudents`
+- example: int __NumberOfStudents__
 :::
 
 :::  details camelCase 
 - he first letter of the first word remains lowercase, and subsequent words have their first letter capitalized. No separators are used
-- example:  string `fruitName`
+- example:  string __fruitName__
 :::
 
 :::  details camelCase 
 - words are written in lowercase and separated by underscores (_). In Python, it is common practice for developers to use snake_case when declaring variables 
-- example: int `number_of_students`
+- example: int __number_of_students__
 :::

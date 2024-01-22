@@ -38,13 +38,12 @@ Now, we want to find number 41. How?
 | 5 | 19 | 22 | 30 | 41 | 59 | 67 |
 | left |  |  | Mid |  |  | Right |
 
-First, we need to set the __left__ and __right__ index.  
-We also need to find the __mid__ using the formula: __left+(right-left)/2__  
-Mid = 0+(6-0)/2 = 3. That’s why the 3rd index will be the mid.  
-  
-If the number of last index is odd, it will be rounded. For example: 7/2 = 3.5 -> 3  
+- First, we need to set the __left__ and __right__ index.  
+- We also need to find the __mid__ using the formula: __left+(right-left)/2__  
+- Mid = 0+(6-0)/2 = 3. That’s why the 3rd index will be the mid.  
+- If the number of last index is odd, it will be rounded. For example: 7/2 = 3.5 -> 3  
 
-- Now we want to find number 41.
+Now we want to find number 41.
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|

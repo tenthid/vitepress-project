@@ -15,15 +15,15 @@ next:
 
 ::: code-group
 ```c [C/C++] {1,3}
-// INITIALIZE
+// Syntax
 dataType arrayName[arraySize] = {value1, value2, ...};
-// EXAMPLE
+// Example
 int numbers[5] = {1, 2, 3, 4, 5};
 ```
 ```java [Java] {1,3}
-// INITIALIZE
+// Syntax
 dataType[] arrayName = {value1, value2, value3, ...};
-// EXAMPLE
+// Example
 int[] numbers = {1, 2, 3, 4, 5};
 ```
 :::

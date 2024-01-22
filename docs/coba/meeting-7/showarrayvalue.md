@@ -53,9 +53,6 @@ arr = [1, 2, 3, 4, 5]
 for i in range(len(arr)):
     print("Element at index {}: {}".format(i, arr[i]))
 ```
-- __sizeof(arr)__ returns the total size (in bytes) occupied by the array arr.
-- __sizeof(arr[0])__ returns the size (in bytes) of the first element of the array arr.
-  
 In Python, we use a `list` (arr) instead of an array. The range(len(arr)) generates a sequence of indices corresponding to the `length of the list`, and the for loop iterates over these indices.
   
 - `len` is a built-in function that returns the length (number of elements) of an object, such as a string, list, or tuple.

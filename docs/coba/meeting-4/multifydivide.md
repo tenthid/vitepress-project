@@ -54,10 +54,10 @@ result = a / b
 :::
 
 ## Example
-Sarah, the bakery owner, wants to calculate the total cost, revenue, and profit for a batch of cakes. She bakes `60 cakes`, with a production cost of `$6 per cake`. However, due to varying demand, she decides to sell these cakes in different packs, each containing `6 cakes`, priced at `$45 per pack`.
+Sarah, the bakery owner, wants to calculate the total cost, revenue, and profit for a batch of cakes. She bakes __60 cakes__, with a production cost of __$6 per cake__. However, due to varying demand, she decides to sell these cakes in different packs, each containing __6 cakes__, priced at __$45 per pack__.
 
-::: code-group
-```txt [Pseudocode]
+::: info Pseudocode
+```txt 
 BEGIN
  	INITIALIZE totalCakes = 60
     INITIALIZE productionCostPerCake = 6
@@ -72,6 +72,10 @@ BEGIN
     DISPLAY "Total profit: $", totalProfit
 END
 ```
+:::
+
+::: code-group
+
 ```c [C]
 int totalCakes = 60;
 int productionCostPerCake = 6;

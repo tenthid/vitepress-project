@@ -12,7 +12,7 @@ next:
 ---
 
 # Class
-A `class` is a `blueprint` or a `template` used to c`reate objects`. It serves as a model that defines the properties `(attributes)` and behaviors `(methods)` that objects of that class will have.
+A `class` is a __blueprint__ or a __template__ used to __create objects__. It serves as a model that defines the properties __(attributes)__ and behaviors __(methods)__ that objects of that class will have.
 
 ::: details Constructor
 This is a method within a class that gets called automatically when an object of that class is created. It __initializes__ the object's attributes or performs any setup required for the object to function properly.

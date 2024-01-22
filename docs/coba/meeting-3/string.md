@@ -13,11 +13,12 @@ next:
 
 # String
 A `string` is a sequence of characters, typically used to represent text. It could include letters, numbers, symbols, and whitespace. Strings are enclosed in single quotes (' ') or double quotes (" "). They're fundamental data types and are used extensively in almost every programming language.  
-  
-Several things that can be done with strings include:
+
+::: info Several things that can be done with strings include:
 1. Manipulation
 2. Concatenation
 3. Slicing
+:::
 
 ## String Manipulation
 :::details __1. Finding a character with a particular index__

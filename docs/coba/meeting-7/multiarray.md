@@ -40,16 +40,16 @@ int numbers[3][4] = {
 ```java {1,8}
 //Syntax
 dataType[][] arrayName = {
-{value1, value2, ...},
-{value3, value4, ...},
-{value5, value6, ...}
+    {value1, value2, ...},
+    {value3, value4, ...},
+    {value5, value6, ...}
 };
 
 //example
 int[][] numbers = {
-{1, 2, 3, 4},
-{14, 23, 31, 42},
-{11, 24, 37, 40}
+    {1, 2, 3, 4},
+    {14, 23, 31, 42},
+    {11, 24, 37, 40}
 };
 ```
 

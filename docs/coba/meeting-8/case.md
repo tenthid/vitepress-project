@@ -14,8 +14,7 @@ next:
 # Case
 You're tasked with developing a financial management tool—a virtual financial assistant—designed to streamline personal finance tracking. This program, crafted in `C`, `C++`, or `Java`, presents users with a menu-driven interface offering options to record incomes, expenses, review financial transactions, and exit the program. The challenge lies in creating an intuitive system that accurately captures user inputs, maintains organized records of incomes and expenses, ensures input validation, and delivers informative financial summaries.
     
-::: info 
-Develop a financial management program that presents users with the following main menu options:
+::: info Develop a financial management program that presents users with the following main menu options:
 1. Record Income
 2. Record Expense
 3. View Income and Expenses
@@ -59,7 +58,7 @@ __The things that you need to create:__
 3. Algorithm in flowchart
 4. Code
 
-::: info 
+::: info Note
 For number 1-3, please put it in a word file. For number 4 submit the code file (.c/.cpp/.java). Then submit it to the teacher.
 :::
 

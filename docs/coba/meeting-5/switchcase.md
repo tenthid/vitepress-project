@@ -13,7 +13,7 @@ next:
 # Switch Case
 The `switch statement` is a control flow statement used in programming to perform different actions based on different conditions or values of a single variable or expression.
 ## Syntax
-::: info
+::: info Pseudocode explanation
 `expression`: A variable or expression whose value is checked against the cases.  
 `case value1`: The value to match against the expression.  
 `break`: Keyword used to exit the switch block after executing the matching case.  
@@ -33,8 +33,8 @@ switch (expression) {
 }
 ```
 ## Switch Case Example
-::: info
-Python does not have a built-in switch-case statement like some other programming languages (such as C, C++, or Java).
+::: info Python
+Does not have a built-in switch-case statement like some other programming languages (such as C, C++, or Java).
 :::
 ```cmd
 int day = 3;

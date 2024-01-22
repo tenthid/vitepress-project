@@ -54,10 +54,10 @@ result = a - b
 :::
 
 ## Example
-Emma planning her monthly expenses. She started with a budget of `$2000` for the month. Throughout the month, she made purchases and received her paycheck. She bought a laptop for `$800`, went out for dinner costing `$50`, and received her paycheck of `$1500`. She also paid her monthly rent of `$700`.
+Emma planning her monthly expenses. She started with a budget of __$2000__ for the month. Throughout the month, she made purchases and received her paycheck. She bought a laptop for __$800__, went out for dinner costing __$50__, and received her paycheck of __$1500__. She also paid her monthly rent of __$700__.
 
-::: code-group
-```txt [Pseudocode]
+::: info Pseudocode
+```txt 
 BEGIN
     INITIALIZE budget = 2000
     SUBTRACT budget = budget - 800
@@ -67,6 +67,9 @@ BEGIN
     OUTPUT "Final budget is: ", budget
 END
 ```
+:::
+
+::: code-group
 ```c [C]
 int budget = 2000;
 budget -= 800;

@@ -32,10 +32,10 @@ result = a % b
 :::
 
 ## Example
-Mr. Ali sells `153 cakes.` He wants to pack these cakes into bundles of `8 cakes per bundle`. How many cakes will remain unpacked?
+Mr. Ali sells __153 cakes__. He wants to pack these cakes into bundles of __8 cakes per bundle__. How many cakes will remain unpacked?
 
-::: code-group
-```txt [Pseudocode]
+::: info Pseudocode
+```txt 
 BEGIN
     INITIALIZE totalCakes as 153
     INITIALIZE cakesPerBundle as 8
@@ -45,6 +45,9 @@ BEGIN
     DISPLAY "Number of cakes remaining unpacked: ", remainingCakes
 END
 ```
+:::
+
+::: code-group
 ```c [C]
 int totalCakes = 153;
 int cakesPerBundle = 8;

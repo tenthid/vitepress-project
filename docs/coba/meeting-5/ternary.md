@@ -13,12 +13,12 @@ next:
 # Ternary
 The `ternary operator` is a concise way to write conditional statements in many programming languages. It's a one-liner conditional expression that evaluates a condition and returns a value based on whether the condition is true or false.  
   
-The basic structure of the ternary operator is:
-condition ? value_if_true : value_if_false  
+The basic structure of the ternary operator is:  
+- __condition ? value_if_true : value_if_false__  
   
-condition: The expression evaluated for its truth value.
-value_if_true: The value returned if the condition is true.
-value_if_false: The value returned if the condition is false.  
+condition: The expression evaluated for its truth value.  
+- value_if_true: The value returned if the condition is true.  
+- value_if_false: The value returned if the condition is false.  
   
 The ternary operator can be used as an expression to assign values or return results based on a condition.  
 ## Example

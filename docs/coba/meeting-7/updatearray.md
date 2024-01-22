@@ -22,7 +22,7 @@ arrayName[index] = newValue;
 - __newValue:__ The new value you want to assign to the element at the specified index.
 
 ## Example
-```txt
+```cmd
 numbers[2] = 10;
 ```
 Updating the third element (index 2) to 10

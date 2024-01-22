@@ -39,8 +39,8 @@ BEGIN
 END
 ```
 :::
-::: info
-In `Python`, maintaining consistent and correct indentation, typically using four spaces, is crucial as it delineates the scope of code blocks, and any deviations may lead to syntax errors or altered program logic.
+::: info In Python
+Maintaining consistent and correct indentation, typically using four spaces, is crucial as it delineates the scope of code blocks, and any deviations may lead to syntax errors or altered program logic.
 :::
 
 ::: info __Code Example__

@@ -56,7 +56,7 @@ next:
 
 |  |  | i | j |  | __pivot__ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|  | 3 | <Badge type="tip" text="5 (un-swap)" /> | <Badge type="tip" text="1 (un-swap)" /> | 2 | 4 |
+|  | 3 | <Badge type="tip" text="5 (unswap)" /> | <Badge type="tip" text="1 (unswap)" /> | 2 | 4 |
 
 |  |  | i | j |  | __pivot__ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +78,7 @@ next:
 
 |  |  |  | i | j | __pivot__ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|  | 3 | 1 | <Badge type="tip" text="5 (un-swap)" /> | <Badge type="tip" text="2 un-swap" /> | 4 |
+|  | 3 | 1 | <Badge type="tip" text="5 (unswap)" /> | <Badge type="tip" text="2 unswap" /> | 4 |
 
 |  |  |  | i | j | __pivot__ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -88,7 +88,7 @@ next:
 
 |  |  |  |  | i,j | __pivot__ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|  | 3 | 1 | 2 | <Badge type="tip" text="5 (un-swap)" /> | <Badge type="tip" text="4 (un-swap)" /> |
+|  | 3 | 1 | 2 | <Badge type="tip" text="5 (unswap)" /> | <Badge type="tip" text="4 (unswap)" /> |
 
 <table>
         <thead>
@@ -97,7 +97,7 @@ next:
                 <th style="text-align: center;"></th>
                 <th style="text-align: center;"></th>
                 <th style="text-align: center;"></th>
-                <th style="text-align: center;">i,j <strong>pivot</strong></th>
+                <th style="text-align: center;">i,j, <strong>pivot</strong></th>
                 <th style="text-align: center;"></th>
             </tr>
         </thead>
@@ -135,7 +135,7 @@ ELSE j++
 
 |  | i | j | __pivot__ |
 |:---:|:---:|:---:|:---:|
-|  | <Badge type="tip" text="3 (un-swap)" /> | <Badge type="tip" text="1 (un-swap)" /> | 2 |
+|  | <Badge type="tip" text="3 (unswap)" /> | <Badge type="tip" text="1 (unswap)" /> | 2 |
 
 |  | i | j | __pivot__ |
 |:---:|:---:|:---:|:---:|
@@ -145,15 +145,15 @@ ELSE j++
 
 |  |  | i, j | __pivot__ |
 |:---:|:---:|:---:|:---:|
-|  | 1 | <Badge type="tip" text="3 (un-swap)" /> | <Badge type="tip" text="2 (un-swap)" /> |
+|  | 1 | <Badge type="tip" text="3 (unswap)" /> | <Badge type="tip" text="2 (unswap)" /> |
 
 <table>
     <thead>
         <tr>
             <th style="text-align: center;"></th>
             <th style="text-align: center;"></th>
-            <th style="text-align: center;">i, j</th>
-            <th style="text-align: center;"><strong>pivot</strong></th>
+            <th style="text-align: center;">i, j, <strong>pivot</strong></th>
+            <th style="text-align: center;"></th>
         </tr>
     </thead>
     <tbody>

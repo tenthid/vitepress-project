@@ -31,7 +31,7 @@ next:
 |:---:|:---:|:---:|:---:|:---:|
 | 5 | 23 | 65 | 1 | 42 |
 
-- We want to search for number 65. How?
+We want to search for number 65. How?
 - We’ll try to find it one-by-one from the first index, which is [0].
 - We can use the loop concept!
 - Loop the array, IF i = target, THEN return i

@@ -14,9 +14,13 @@ next:
 # Update Array
 
 ## C/C++
+
+::: info Syntax
 ```c
 arrayName[index] = newValue;
 ```
+:::
+
 - arrayName: The name of the array.
 - index: The position (index) within the array where you want to update the element. Indices typically start at 0.
 - newValue: The new value you want to assign to the element at the specified index.
@@ -29,9 +33,13 @@ numbers[2] = 10;
 :::
  
 ## Java
+
+::: info Syntax
 ```java
 arrayName.set(indexToUpdate, newValue);
 ```
+:::
+
 - arrayName: The name of the array.
 - index: The position (index) within the array where you want to update the element. Indices typically start at 0.
 - newValue: The new value you want to assign to the element at the specified index.
@@ -44,9 +52,13 @@ numbers.set(2, 10);
 :::
  
 ## Python
+
+::: info Syntax
 ```python
 array_name[index] = new_value
 ```
+:::
+
 ::: info Example
 ```python
 array_name[2] = 9
