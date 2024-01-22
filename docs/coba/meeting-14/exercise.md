@@ -7,8 +7,8 @@ prev:
     link: ./polymorphism
 
 next:
-    text: Meeting 15 - Project Making
-    link: ../meeting-15/projectmaking
+    text: Meeting 15 and 16 - Project Making
+    link: ../meeting-15and16/projectmaking
 ---
 
 # Final Exercise

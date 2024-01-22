@@ -194,12 +194,12 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Meeting 15 - Project',
+          text: 'Meeting 15 and 16 - Project',
           collapsed:true,
           items: [
-            { text: 'Project Making', link: 'coba/meeting-15/introduction' },
-            { text: 'Project Guide', link: 'coba/meeting-15/oopadvantages' },
-            { text: 'Project Submission', link: 'coba/meeting-15/example' },
+            { text: 'Project Making', link: 'coba/meeting-15and16/projectmaking' },
+            { text: 'Project Guide', link: 'coba/meeting-15and16/projectguide' },
+            { text: 'Project Submission', link: 'coba/meeting-15and16/projectsubmission' },
           ]
         },
       ]
