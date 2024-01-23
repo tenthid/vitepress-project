@@ -3,7 +3,7 @@ layout: doc
 title: Object-Oriented Programing Part 1 - Introduction
 
 prev:
-    text: Binary Searching
+    text: Binary Search
     link: ../meeting-12/binarysearch
 
 next:
