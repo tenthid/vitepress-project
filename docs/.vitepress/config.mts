@@ -115,7 +115,7 @@ export default defineConfig({
           text: 'Meeting 8 - Mid Test',
           collapsed:true,
           items: [
-            { text: 'Case', link: 'coba/meeting-5/case' },
+            { text: 'Case', link: 'coba/meeting-8/case' },
           ]
         },
         {
