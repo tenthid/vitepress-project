@@ -166,7 +166,6 @@ export default defineConfig({
             { text: 'Examples of Searching', link: 'coba/meeting-12/examples' },
             { text: 'Linear Search', link: 'coba/meeting-12/linearsearch' },
             { text: 'Binary Search', link: 'coba/meeting-12/binarysearch' },
-            { text: 'Exercise', link: 'coba/meeting-12/exercise' },
           ]
         },
         {

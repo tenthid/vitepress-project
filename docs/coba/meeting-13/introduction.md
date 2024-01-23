@@ -4,7 +4,7 @@ title: Object-Oriented Programing Part 1 - Introduction
 
 prev:
     text: Binary Searching
-    link: ../meeting-12/binaarsearching
+    link: ../meeting-12/binarysearch
 
 next:
     text: Advantages of OOP
